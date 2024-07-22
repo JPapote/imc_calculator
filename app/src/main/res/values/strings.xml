@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppAndroid</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="age">Edad</string>
+    <string name="weight">Peso</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu Resultado</string>
+    <string name="re_calculate">Re-calcular</string>
+</resources>
